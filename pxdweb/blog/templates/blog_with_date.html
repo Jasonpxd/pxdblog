@@ -1,0 +1,10 @@
+{% extends 'blog_list.html' %}
+
+{% block title %}
+{{ blog_date }}
+{% endblock %}
+
+{% block  blog_list_title %}
+    日期归档:{{ blog_date}}（一共有{{ page_of_blogs.paginator.object_list|length }}篇博客）
+    <a href="{% url 'blog_list' %}">查看全部博客</a>
+{% endblock %}

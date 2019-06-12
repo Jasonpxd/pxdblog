@@ -37,10 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'blog',
     'ckeditor',
     'ckeditor_uploader',
-    'read_statistics'
+    'blog',
+    'read_statistics',
 ]
 
 MIDDLEWARE = [

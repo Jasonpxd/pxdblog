@@ -1,7 +1,10 @@
 from django.shortcuts import render_to_response,get_object_or_404
 from django.core.paginator import Paginator
-from .models import Blog,BlogType, ReadNum
+from .models import Blog,BlogType
 from django.db.models import Count
+from django.contrib.contenttypes.models import ContentType
+from read_statistics.models import ReadNum
+from read_statistics.utils import read_statistics_once_read
 from datetime import datetime
 # Create your views here.
 
@@ -51,22 +54,13 @@ def blog_list(request):
 
 def blog_detail(request, blog_pk):
     blog =  get_object_or_404(Blog,pk=blog_pk)
-    if not request.COOKIES.get('blog_%s_read' % blog_pk):
-        if ReadNum.objects.filter(blog=blog).count():
-            readnum = ReadNum.objects.get(blog=blog)
-            print(readnum.read_num)
-        else:
-            readnum = ReadNum()
-        readnum.read_num += 1
-        readnum.blog = blog
-        readnum.save()
-
+    read_cookie_key = read_statistics_once_read(request, blog)
     context = {}
     context['blog'] = blog
     context['previous_blog'] = Blog.objects.filter(created_time__gt=blog.created_time).last()
     context['next_blog'] = Blog.objects.filter(created_time__lt=blog.created_time).first()
     response = render_to_response('blog_detail.html', context)
-    response.set_cookie('blog_%s_read' % blog_pk, 'true')
+    response.set_cookie(read_cookie_key, 'true')
     return response
 
 def blog_with_type(request,blog_with_type):

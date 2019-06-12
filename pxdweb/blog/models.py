@@ -17,7 +17,17 @@ class Blog(models.Model):
     read_num = models.IntegerField(default=0)
     created_time = models.DateTimeField(auto_now_add=True)
     last_update_time = models.DateTimeField(auto_now=True)
+
+    def get_read_num(self):
+        try:
+            return self.readnum.read_num
+        except:
+            return 0
     def __str__(self):
         return '<Blog: %s>' % self.title
     class Meta:
         ordering = ['-created_time']
+
+class ReadNum(models.Model):
+    read_num = models.IntegerField(default=0)
+    blog = models.OneToOneField(Blog, on_delete=models.DO_NOTHING)

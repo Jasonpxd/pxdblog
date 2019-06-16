@@ -9,8 +9,8 @@ from django.utils import timezone
 
 class ReadNumExpandMethod():
     def get_read_num(self):
+        ct = ContentType.objects.get_for_model(self)
         try:
-            ct = ContentType.objects.get_for_model(self)
             readnum = ReadNum.objects.get(content_type=ct, object_id=self.pk)
             return readnum.read_num
         except:

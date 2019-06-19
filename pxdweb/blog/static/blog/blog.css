@@ -39,3 +39,16 @@ div.blog-more{
 div.blog-more p{
     display: inline-block;
 }
+
+div.comment-area {
+    margin-top:2em;
+}
+
+h3.comment-area-title{
+    border-bottom:1px solid#CCC;
+    padding-bottom: 0.4em;
+
+}
+div.django-ckeditor-widget{
+    width: 100%;
+}

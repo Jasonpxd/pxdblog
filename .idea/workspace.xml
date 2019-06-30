@@ -6,18 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="877c68e4-b253-40f3-89e3-a7c94300e4d7" name="Default Changelist" comment="12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/yangshihang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yangshihang.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pxdweb/blog/static/blog/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/pxdweb/blog/static/blog/blog.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pxdweb/blog/templates/blog_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/pxdweb/blog/templates/blog_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pxdweb/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pxdweb/blog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pxdweb/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pxdweb/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pxdweb/comment/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/pxdweb/comment/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pxdweb/comment/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/pxdweb/comment/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pxdweb/comment/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/pxdweb/comment/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pxdweb/comment/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pxdweb/comment/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pxdweb/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/pxdweb/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pxdweb/pxdweb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pxdweb/pxdweb/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pxdweb/pxdweb/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pxdweb/pxdweb/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pxdweb/pxdweb/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pxdweb/pxdweb/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pxdweb/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/pxdweb/templates/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,62 +28,57 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="256" />
-          <entry key="html" value="3047" />
-          <entry key="py" value="9067" />
+          <entry key="Python Console" value="6" />
+          <entry key="css" value="363" />
+          <entry key="html" value="3738" />
+          <entry key="py" value="9842" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="256" />
-          <entry key="HTML" value="3047" />
+          <entry key="CSS" value="363" />
+          <entry key="HTML" value="3738" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="9067" />
+          <entry key="Python" value="9848" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="5" />
-          <entry key="html" value="12" />
-          <entry key="py" value="26" />
+          <entry key="html" value="13" />
+          <entry key="py" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="5" />
-          <entry key="HTML" value="12" />
-          <entry key="Python" value="26" />
+          <entry key="HTML" value="13" />
+          <entry key="Python" value="33" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="yangshihang" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pxdweb/templates/base.html">
+        <entry file="file://$PROJECT_DIR$/pxdweb/blog/templates/blog_detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pxdweb/pxdweb/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="882">
-              <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+            <state relative-caret-position="288">
+              <caret line="102" column="30" lean-forward="true" selection-start-line="102" selection-start-column="30" selection-end-line="102" selection-end-column="30" />
               <folding>
-                <element signature="e#0#24#0" expanded="true" />
-                <marker date="1560780696406" expanded="true" signature="130:135" ph="..." />
+                <element signature="e#2422#2444#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,30 +87,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pxdweb/comment/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="8" column="140" selection-start-line="8" selection-start-column="140" selection-end-line="8" selection-end-column="140" />
+            <state relative-caret-position="360">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
-                <marker date="1560847520384" expanded="true" signature="268:273" ph="..." />
+                <marker date="1561868650104" expanded="true" signature="297:302" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pxdweb/blog/static/blog/blog.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pxdweb/pxdweb/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="134" column="32" lean-forward="true" selection-start-line="134" selection-start-column="32" selection-end-line="134" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -128,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pxdweb/comment/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="345">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
                 <marker date="1560913967205" expanded="true" signature="968:998" ph="..." />
@@ -139,36 +111,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pxdweb/blog/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/pxdweb/comment/tests.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pxdweb/comment/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+            <state relative-caret-position="360">
+              <caret line="35" column="77" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="77" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pxdweb/comment/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -177,8 +130,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pxdweb/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="59" column="100" selection-start-line="59" selection-start-column="100" selection-end-line="59" selection-end-column="100" />
+            <state relative-caret-position="107">
+              <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
               <folding>
                 <element signature="e#0#54#0" expanded="true" />
               </folding>
@@ -200,6 +153,15 @@
     <findStrings>
       <find>render_to_response</find>
       <find>get_today_hot_data</find>
+      <find>comment_error</find>
+      <find>pk</find>
+      <find>comment_fo</find>
+      <find>comment_form</find>
+      <find>reply</find>
+      <find>reply_comment_id</find>
+      <find>comment_list</find>
+      <find>reply_content_container</find>
+      <find>reply_content</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -232,13 +194,15 @@
         <option value="$PROJECT_DIR$/pxdweb/templates/register.html" />
         <option value="$PROJECT_DIR$/pxdweb/pxdweb/views.py" />
         <option value="$PROJECT_DIR$/pxdweb/pxdweb/forms.py" />
-        <option value="$PROJECT_DIR$/pxdweb/blog/static/blog/blog.css" />
         <option value="$PROJECT_DIR$/pxdweb/templates/base.html" />
+        <option value="$PROJECT_DIR$/pxdweb/pxdweb/settings.py" />
+        <option value="$PROJECT_DIR$/pxdweb/comment/models.py" />
+        <option value="$PROJECT_DIR$/pxdweb/blog/static/blog/blog.css" />
+        <option value="$PROJECT_DIR$/../src/nffm_final/001_prepared_data.py" />
+        <option value="$PROJECT_DIR$/../src/nffm_final/002_doFeature.py" />
         <option value="$PROJECT_DIR$/pxdweb/comment/forms.py" />
         <option value="$PROJECT_DIR$/pxdweb/comment/views.py" />
         <option value="$PROJECT_DIR$/pxdweb/blog/templates/blog_detail.html" />
-        <option value="$PROJECT_DIR$/pxdweb/pxdweb/settings.py" />
-        <option value="$PROJECT_DIR$/pxdweb/comment/models.py" />
         <option value="$PROJECT_DIR$/pxdweb/blog/views.py" />
       </list>
     </option>
@@ -249,7 +213,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1005" />
     <option name="height" value="1050" />
@@ -260,7 +224,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -284,15 +247,7 @@
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="pxdweb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="blog" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="yangshihang" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="pxdweb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="blog" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="blog" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="yangshihang" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -300,26 +255,16 @@
               <item name="pxdweb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="comment" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="yangshihang" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="pxdweb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="pxdweb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="yangshihang" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="pxdweb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/python/yangshihang/pxdweb/comment/models.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
@@ -340,6 +285,28 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="yangshihang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
       <module name="yangshihang" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -396,9 +363,9 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14209116" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989059" visible="true" weight="0.14410187" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010941" side_tool="true" weight="0.14209116" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32991204" />
@@ -410,13 +377,14 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.18942732" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32991204" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.1938326" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3274596" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" side_tool="true" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,6 +469,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -536,19 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
           <caret line="76" column="16" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-            <marker date="1560780384287" expanded="true" signature="531:943" ph="..." />
-            <marker date="1560780384287" expanded="true" signature="1725:1726" ph="..." />
-            <marker date="1560780384287" expanded="true" signature="2169:2170" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pxdweb/blog/templates/blog_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1998">
-          <caret line="111" selection-start-line="111" selection-end-line="112" />
         </state>
       </provider>
     </entry>
@@ -563,38 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="882">
           <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <marker date="1560780696406" expanded="true" signature="130:135" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pxdweb/comment/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="8" column="140" selection-start-line="8" selection-start-column="140" selection-end-line="8" selection-end-column="140" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <marker date="1560847520384" expanded="true" signature="268:273" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pxdweb/blog/static/blog/blog.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pxdweb/comment/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -602,9 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -619,16 +542,73 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pxdweb/blog/static/blog/blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/nffm_final/001_prepared_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../src/nffm_final/001_select_feat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/nffm_final/002_doFeature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/nffm_final/003_extract_features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1422">
+          <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/nffm_final/004_train_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pxdweb/comment/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pxdweb/comment/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        <state relative-caret-position="345">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
             <marker date="1560913967205" expanded="true" signature="968:998" ph="..." />
@@ -636,10 +616,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pxdweb/comment/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <marker date="1561868650104" expanded="true" signature="297:302" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pxdweb/comment/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="35" column="77" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pxdweb/blog/templates/blog_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="102" column="30" lean-forward="true" selection-start-line="102" selection-start-column="30" selection-end-line="102" selection-end-column="30" />
+          <folding>
+            <element signature="e#2422#2444#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pxdweb/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="59" column="100" selection-start-line="59" selection-start-column="100" selection-end-line="59" selection-end-column="100" />
+        <state relative-caret-position="107">
+          <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
           <folding>
             <element signature="e#0#54#0" expanded="true" />
           </folding>
